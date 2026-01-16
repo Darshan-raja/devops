@@ -1,0 +1,109 @@
+1. what is os?
+    An Operating System (OS) is system software that:
+    Acts as a bridge between the user and the computer hardware
+    Controls and manages all hardware and software resources
+    Allows you to run applications like browsers, editors, games, etc.
+
+2. types of linux?
+     Linux:
+   - It is a free and open-source operating system
+   - Used in servers, desktops, and embedded systems
+   - Example: Ubuntu, Red Hat
+
+   Windows:
+   - It is a proprietary operating system developed by Microsoft
+   - Easy to use and widely used on personal computers
+   - Example: Windows 10, Windows 11
+
+   macOS:
+   - It is a proprietary operating system developed by Apple
+   - Used only on Apple computers (MacBook, iMac)
+   - Known for stability and security
+
+   DBN (Debian):
+   - It is a Linux-based operating system
+   - Free and open-source
+   - Used as a base for many Linux distros like Ubuntu
+
+3. explain the functionality of os?
+
+    1. Process Management
+    The OS manages all running programs (processes).
+    It decides which process gets the CPU and for how long.
+
+    2. Memory Management
+    The OS manages the main memory (RAM).
+    It allocates memory to programs and frees it after execution.
+
+    3. File System Management
+    The OS manages files and directories.
+    It controls storing, accessing, and protecting data.
+
+    4. Device Management
+    The OS controls input and output devices.
+    It uses device drivers to communicate with hardware.
+
+    5. Security and Protection
+    The OS provides system security.
+    It manages user authentication and access permissions.
+
+    6. User Interface
+    The OS acts as an interface between user and computer.
+    It provides GUI or CLI for user interaction.
+
+    7. Multitasking (Multi-management)
+    The OS allows multiple programs to run at the same time.
+    It switches the CPU between tasks quickly to give the user a smooth experience.
+
+4. difference btw Windows and Linux?
+    Windows:
+        - it is a proprietary operating system developed by Microsoft.
+        - it is paid version
+        - user friendly
+        - Gui based(Graphical user interface)
+        - less security and need to install antivirus
+
+    Linux:
+        - it is free and open source
+        - not user friendly
+        -CLI(Command Line Interface)
+        - more security
+
+5. why company use linux?
+    1. Free and Open Source
+        Linux is free to use and does not require license fees,
+        which reduces company costs.
+
+    2. High Security
+        Linux is more secure and less affected by viruses.
+        It provides strong user permission and access control.
+
+    3. Easy to Use
+
+    4. Stability and Reliability
+        Linux systems can run for long periods without crashing.
+        This makes it suitable for servers and production systems.
+
+    5. Better Performance
+        Linux uses fewer system resources.
+        It works well even on high-load servers.
+
+    6. Customization
+        Companies can modify Linux according to their needs.
+        This is useful for specific business requirements.
+
+    7. Server and Cloud Friendly
+        Linux is widely used in servers, cloud computing, and DevOps.
+        Most cloud platforms run on Linux.
+
+    8. Strong Community Support
+        Linux has a large global community.
+        Problems can be solved quickly using online support.
+
+
+
+        
+
+
+
+    

@@ -1,1 +1,8 @@
+create directory:
 
+    mkdir <dirname>   (this command is use to create the directory)
+    mkdir <dir1><dir2><dir3>  (use to create multiple directory)
+    mkdir -p <dir1><dir2><dir3>  (use to create hirerchical directory)
+    cd <dir> (Used to change the current working directory to the specified directory)
+
+    
