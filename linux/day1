@@ -6,4 +6,42 @@ create directory:
     mkdir -p <dir1><dir2><dir3>  (use to create hirerchical directory)
     cd <dir> (Used to change the current working directory to the specified directory)
 
+list 
+    ls  (This command is used to list files and directories in the current directory)
+    ls -l  (Used to display files and directories in long format with permissions, owner, size, and date)
+    ls -a  (Used to display all files including hidden files)
+    ls -la  (Used to display all files including hidden files in long format)  
+    ls -h  (Used to display file sizes in human-readable format)
+    ls -R  (Used to list files and directories recursively)
+    ls -t  (Used to sort files and directories by modification time)
+    ls <directory_name> (Used to list files and directories inside the specified directory)
+
+Create file 
+    touch <filename>            # Used to create an empty file
+    touch <file1> <file2> <file3>  # Used to create multiple files at the same time
+    nano <filename>    # Used to create or edit a file using nano editor
+        we use ctrl+s (to save the file) and ctrl+x (to exit the editor)
+    vi <filename>      # Used to create or edit a file using vi editor
+        we use esc and :wq to (save and exit the editor) w=save and q=quit
+
+view file
+    cat <filename>            # Used to display the content of a file
+    cat <file1> <file2>       # Used to display contents of multiple files
+    cat > <filename>          # Used to create a file and write content
+    cat >> <filename>         # Used to append content to an existing file
+    cat -n <filename>         # Used to display file content with line numbers
+    ctrl+d (is used to exit the editor)
+
+
+
+
+
+
+
+
+
+
+
+
+
     

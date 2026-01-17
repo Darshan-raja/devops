@@ -1,0 +1,19 @@
+linux commands 
+    pwd    # Used to display the present working directory
+    whoami    # Displays the current logged-in user name
+    who       # Displays all logged-in users
+    w         # Displays logged-in users along with their activity
+    cd ~    # Used to change the current directory to the home directory
+
+Remove file
+    rm <filename>           # Used to delete a file
+    rm <file1> <file2>      # Used to delete multiple files
+    rm -r <directory>       # Used to delete a directory and its contents
+    rm -f <filename>        # Used to force delete a file without confirmation
+    rm -rf <directory>      # Used to force delete a directory and its contents
+
+    history (use to check the history of the command)
+    clear (use to clear the screen)
+
+Paths
+    
