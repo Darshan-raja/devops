@@ -1,5 +1,6 @@
 ﻿Steps to Host a Static Website on AWS (with Explanation)
 
+<img width="1024" height="1536" alt="building static webserver" src="https://github.com/user-attachments/assets/8f0ee275-202e-47e7-a14a-d0cf0ca95ff7" />
 
 
 Step 1: Launch an EC2 Instance
@@ -339,6 +340,7 @@ One-Line Interview Answer (Final)
 > I hosted a static website on AWS by launching an Ubuntu EC2 instance, configuring NGINX, uploading website files to the NGINX web root, and exposing it to the internet using security groups and a public IP.
 
 ---
+
 
 
 
